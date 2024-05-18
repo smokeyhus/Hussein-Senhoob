@@ -17,6 +17,12 @@ h2 {font-family: cursive;
     color: darkred;
 }
 
+h3 {font-family: cursive;
+    font-size: 48px;
+    color: forestgreen;
+    background-color: ghostwhite;
+}
+
 p {font-family: monospace;
     font-size: 20px;
     color: darkred;
